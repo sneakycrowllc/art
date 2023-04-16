@@ -1,4 +1,4 @@
 [workspace]
-members = ["schotter", "schotter-github"]
-default-members = ["schotter"]
+members = ["pieces/*"]
+default-members = ["pieces/schotter"]
 resolver = "2"
