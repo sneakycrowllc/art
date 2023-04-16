@@ -1,5 +1,4 @@
 [workspace]
-members=[
-    "schotter"
-]
-resolver="2"
+members = ["schotter"]
+default-members = ["schotter"]
+resolver = "2"
